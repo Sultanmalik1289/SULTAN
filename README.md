@@ -5,19 +5,19 @@
 # # Commands Tool
 
 
-# pkg update
+* pkg update
 
-# pkg upgrade
+* pkg upgrade
 
-# pkg install python2
+* pkg install python2
 
-# pip2 install requests mechanize
+* pip2 install requests mechanize
 
-# git clone https://github.com/Sultanmalik1289/SULTAN
+* git clone https://github.com/Sultanmalik1289/SULTAN
 
-# cd SULTAN
+* cd SULTAN
 
-# python2 SULTAN.py
+* python2 SULTAN.py
 
 
 
