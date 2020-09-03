@@ -1,8 +1,8 @@
-##This is a Sultan Tools
+# # This is a Sultan Tools.
 
 
 
-## Commands Tool
+# # Commands Tool
 
 
 # pkg update
@@ -15,5 +15,11 @@
 
 # git clone https://github.com/Sultanmalik1289/SULTAN
 
+# cd SULTAN
 
-##THANKS FOR USING MY COMMANDS.
+# python2 SULTAN.py
+
+
+
+
+# # THANKS FOR USING MY COMMANDS.
