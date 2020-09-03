@@ -17,9 +17,9 @@
 
 * cd SULTAN
 
-* python2 SULTAN.py
+* python2 Sultan.py
 
 
 
 
-# # THANKS FOR USING MY COMMANDS.
+# # Thanks for using my commands.
